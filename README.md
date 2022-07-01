@@ -12,3 +12,7 @@ Result
 -------------------
 <img width="924" alt="截屏2022-07-01 11 22 19" src="https://user-images.githubusercontent.com/78418629/176817219-e3e20824-f75f-4476-8524-f1d8db67b682.png">
 <img width="848" alt="截屏2022-07-01 11 22 43" src="https://user-images.githubusercontent.com/78418629/176817241-5837625b-0f71-49f8-8240-08d7d2c4ff41.png">
+
+Due  to  the  lack  of  underwatertraining   data,   we   first   propose   a   depth-aware   stereo   imagetranslation   network   to   synthesize   stylized   underwater   stereoimages   from   terrestrial   dataset,   thus   benefiting   the   effectivetraining  of  depth  estimation  network.  Then,  considering  theweak  generalization  to  the  real  underwater  data  when  onlytrained on the above synthetic data, we present a self-ensemblingfeature  adaptation  for  depth  estimation  network  to  minimizethe   semantic   domain   discrepancy   between   synthetic   and   re-al  underwater  data.  Meanwhile,  we  design  a  disparity  rangeadaptation  module  to  address  the  problem  of  disparity  rangemiss-match  between  both  data,  thus  obtaining  more  accuratedepth  predictions  for  large-disparity-span  underwater  images.
+Datasets
+--------
