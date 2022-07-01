@@ -20,6 +20,7 @@ KITTI: KITTI  is  a  real-world  dataset  with  terrestrialviews  which  provide
 
 USD: USD collects 57 underwater stereo pairs from fourdifferent sites (Katzaa, Mikhmoret, Nachsholim and Satil) inIsrael with different characteristic attributes, where Satil isa shipwreck site (8 pairs) in the Red Sea (tropical water), and the other three are rocky reef environments, separated by Katzaa (15 pairs) in the Red Sea, Nachsholim (13 pairs) andMikhmoret (21 pairs) in the Mediterranean Sea (temperatewater). 
 
-Dependences
+Environment
 --------
-conda env create -f bgnet.yml
+`conda env create -f bgnet.yml`
+
