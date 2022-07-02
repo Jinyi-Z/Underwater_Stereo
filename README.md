@@ -29,3 +29,15 @@ We uploaded the YML file of the environment. You can install the code environmen
 Download pretrained models
 --------
 Download the pretrained model from the Baidu netdisk folder. Link:
+
+Training
+--------
+
+Test
+--------
+
+Citation
+--------
+If you find this code useful, please cite:
+
+`Xinchen Ye* et al., Underwater Depth Estimation via Unsupervised Stereo Adaptation Networks, Submitted to IEEE Trans. Image Processing, Major revision.`
