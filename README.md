@@ -26,3 +26,5 @@ We uploaded the YML file of the environment. You can install the code environmen
 
 `conda env create -f bgnet.yml`
 
+Training
+--------
