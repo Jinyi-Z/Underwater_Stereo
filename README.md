@@ -40,4 +40,4 @@ Citation
 --------
 If you find this code useful, please cite:
 
-`Xinchen Ye* et al., Underwater Depth Estimation via Unsupervised Stereo Adaptation Networks, Submitted to IEEE Trans. Image Processing, Major revision.`
+`Xinchen Ye, Yazhi Yuan, Jinyi Zhang, et al., Underwater Depth Estimation via Unsupervised Stereo Adaptation Networks, submitted to TCSVT 2022.`
