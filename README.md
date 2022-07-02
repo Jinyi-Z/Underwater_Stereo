@@ -26,5 +26,6 @@ We uploaded the YML file of the environment. You can install the code environmen
 
 `conda env create -f bgnet.yml`
 
-Training
+Download pretrained models
 --------
+Download the pretrained model from the Baidu netdisk folder. Link:
