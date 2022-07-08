@@ -34,8 +34,6 @@ Download pretrained models
 --------
 Download the pretrained model from the Baidu netdisk folder. Link:
 
-Training
---------
 
 Test
 --------
