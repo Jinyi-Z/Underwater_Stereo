@@ -22,6 +22,10 @@ USD: USD collects 57 underwater stereo pairs from fourdifferent sites (Katzaa, M
 
 Environment
 --------
+The code supports Python 3.7
+
+PyTorch (>= 1.7.0)
+
 We uploaded the YML file of the environment. You can install the code environment of this paper through the following instructions:
 
 `conda env create -f bgnet.yml`
