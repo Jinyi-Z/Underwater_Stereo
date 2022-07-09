@@ -30,13 +30,14 @@ We uploaded the YML file of the environment. You can install the code environmen
 
 `conda env create -f bgnet.yml`
 
-Download pretrained models
+Download pretrained models and datasets
 --------
-Download the pretrained model from the Baidu netdisk folder. Link:
-
+Download the pretrained model and datasets from the Baidu netdisk folder. Link:
+（https://pan.baidu.com/s/1mf_Kj0Ivme_tWBbj4OgeaA），password:ftzo
 
 Test
 --------
+`sh kitti_12_bg.sh`
 
 Citation
 --------
