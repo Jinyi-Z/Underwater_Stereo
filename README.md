@@ -33,7 +33,8 @@ We uploaded the YML file of the environment. You can install the code environmen
 Download pretrained models and datasets
 --------
 Download the pretrained model and datasets from the Baidu netdisk folder. Link:
-（https://pan.baidu.com/s/1mf_Kj0Ivme_tWBbj4OgeaA），password:ftzo
+(https://pan.baidu.com/s/1mf_Kj0Ivme_tWBbj4OgeaA）
+，password:ftzo
 
 Test
 --------
